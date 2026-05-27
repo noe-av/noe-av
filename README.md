@@ -4,7 +4,7 @@ I'm interested in web and mobile development, and I enjoy creating my own softwa
 
 ---
 
-### Technologies
+## Technologies
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=java,python,cpp,bash,html,css,linux&perline=10" />
@@ -15,7 +15,7 @@ I'm interested in web and mobile development, and I enjoy creating my own softwa
 
 ---
 
-### Projects
+## Projects
 
 - [name](link) — summary
 
